@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 492}
   m_MaxSize: {x: 18097, y: 14042}
   vertical: 0
-  controlID: 42
+  controlID: 29
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 58
+  controlID: 35
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 49
+  controlID: 18
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,13 +317,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/FBX
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/FBX
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Melissa\Documents\GitHub\Assets-Promedio-1\Assets-Promedio-1
     prueba 1
@@ -331,9 +331,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d65b0000
-    m_LastClickedID: 23510
-    m_ExpandedIDs: 00000000d65b00000a5c000000ca9a3b
+    m_SelectedIDs: de5b0000
+    m_LastClickedID: 23518
+    m_ExpandedIDs: 00000000d65b0000de5b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -388,7 +388,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -489,9 +489,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 14}
-      m_SelectedIDs: 
+      m_SelectedIDs: 5a5c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: b0deffff1ee6ffffa4e7ffff80e8ffff46eaffff02ecffff5eedffffa2eefffffeefffff5af1ffffecf2ffff30f4ffff74f5ffffb8f6ffff38fbffff
+      m_ExpandedIDs: 46f3ffffeaf8ffff38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -740,9 +740,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 45.12651, y: -7.3523197, z: -34.163548}
+    m_Target: {x: 14.971384, y: -20.551489, z: -47.086422}
     speed: 2
-    m_Value: {x: 45.12651, y: -7.3523197, z: -34.163548}
+    m_Value: {x: 14.971384, y: -20.551489, z: -47.086422}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -789,13 +789,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0012660022, y: -0.98155814, z: 0.19112504, w: 0.0064836466}
+    m_Target: {x: -0.0095741935, y: -0.9824115, z: 0.17908292, w: -0.052503858}
     speed: 2
-    m_Value: {x: 0.001256258, y: -0.98182964, z: 0.18964978, w: 0.0064854454}
+    m_Value: {x: -0.009495192, y: -0.9826538, z: 0.17760456, w: -0.052516814}
   m_Size:
-    m_Target: 23.984951
+    m_Target: 54.102024
     speed: 2
-    m_Value: 22.952106
+    m_Value: 51.77227
   m_Ortho:
     m_Target: 0
     speed: 2
