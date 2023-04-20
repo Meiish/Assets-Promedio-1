@@ -205,3 +205,49 @@ Received Import Request.
   path: Assets/FBX/MEL/arco de piedra puertas abiertas.fbx
   artifactKey: Guid(4720146d0ab8a4943b26c22dc92ceed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/FBX/MEL/arco de piedra puertas abiertas.fbx using Guid(4720146d0ab8a4943b26c22dc92ceed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d521330cf6535e0ffe071f7245141be') in 0.043831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 470.729926 seconds.
+  path: Assets/FBX/MEL/arco de piedra pequeño tunel.fbx
+  artifactKey: Guid(865d2787febf45d4b87650884d026476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MEL/arco de piedra pequeño tunel.fbx using Guid(865d2787febf45d4b87650884d026476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b645386caf0180722974996d0b5525') in 0.027830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/FBX/MEL/pared_diagonal_2_horizontal.fbx
+  artifactKey: Guid(0535aad0b16aaa74f9f650fc353cb331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MEL/pared_diagonal_2_horizontal.fbx using Guid(0535aad0b16aaa74f9f650fc353cb331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e577682035e3ad549d96384639b438f') in 0.021008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/FBX/MEL/pared_diagonal_1_horizontal.fbx
+  artifactKey: Guid(75d89d0e81db1264ab76570bb09a7464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MEL/pared_diagonal_1_horizontal.fbx using Guid(75d89d0e81db1264ab76570bb09a7464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8383ea451aac3d77a531717c165f21') in 0.020602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/FBX/MEL/arco de piedra puerta pequeña.fbx
+  artifactKey: Guid(845e9a2fc15652946808736bdc268e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MEL/arco de piedra puerta pequeña.fbx using Guid(845e9a2fc15652946808736bdc268e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b9647a2288249c4320fc09f7a0d3c0') in 0.031674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FBX/MEL/arco de piedra sin puertas.fbx
+  artifactKey: Guid(6b30448a29d256946be8f7ffc41a863b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MEL/arco de piedra sin puertas.fbx using Guid(6b30448a29d256946be8f7ffc41a863b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09c7a6481efc2a30d4657108308561b') in 0.018920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/FBX/MEL/pared_diagonal_2_vertical.fbx
+  artifactKey: Guid(124c0a874cbd9424f90eb2243e286e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MEL/pared_diagonal_2_vertical.fbx using Guid(124c0a874cbd9424f90eb2243e286e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200b3b1bb4dea8b6620c268680f97038') in 0.024492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/FBX/MEL/pared_diagonal_1_vertical.fbx
+  artifactKey: Guid(d427b22baa60f8a41b5ad684b80344ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/MEL/pared_diagonal_1_vertical.fbx using Guid(d427b22baa60f8a41b5ad684b80344ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833b1aa79f4c641ee8c74155be9e0d80') in 0.018995 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
