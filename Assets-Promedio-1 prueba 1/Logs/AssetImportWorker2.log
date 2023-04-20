@@ -199,3 +199,85 @@ Received Import Request.
   path: Assets/FBX/MEL/pared_diagonal_1_vertical.fbx
   artifactKey: Guid(d427b22baa60f8a41b5ad684b80344ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/FBX/MEL/pared_diagonal_1_vertical.fbx using Guid(d427b22baa60f8a41b5ad684b80344ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4246a4180c181fae06d9dd3fd72888da') in 0.014875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1104.282638 seconds.
+  path: Assets/FBX/RAFAEL/ArcoDePiedra_CTgrande_Fondo.fbx
+  artifactKey: Guid(601a62b1e695b6b4a9262858b901c274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/ArcoDePiedra_CTgrande_Fondo.fbx using Guid(601a62b1e695b6b4a9262858b901c274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ce1760828f8328aa2cc2d50f8d7fc3') in 0.025718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/FBX/RAFAEL/Monticulo_1.fbx
+  artifactKey: Guid(a997152b588173c4cbc7eac85ae3b27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/Monticulo_1.fbx using Guid(a997152b588173c4cbc7eac85ae3b27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8692bd7c36bdc28ff0a5989c53fdfd38') in 0.029094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/FBX/RAFAEL/Suelo.fbx
+  artifactKey: Guid(7bc74c108f6225749990870cd25dd226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/Suelo.fbx using Guid(7bc74c108f6225749990870cd25dd226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4fba1e6e99e1b3607be1d339a77b2d7') in 0.018049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/FBX/RAFAEL/EscaleraCurva.fbx
+  artifactKey: Guid(72120b3621ec70f4b94914c32a9827eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/EscaleraCurva.fbx using Guid(72120b3621ec70f4b94914c32a9827eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54a3718d99b8e727176556b9fdbf4a0') in 0.025944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/FBX/RAFAEL/ParedCurva.fbx
+  artifactKey: Guid(7a57ab98756dead4cb337cbb1e0975a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/ParedCurva.fbx using Guid(7a57ab98756dead4cb337cbb1e0975a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c5d8566ab9f7bb8d3cf890ef3330d3') in 0.029370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FBX/RAFAEL/SueloInclinadoArena_Rampa.fbx
+  artifactKey: Guid(f32d061e275784143b703fb7f3b84fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/SueloInclinadoArena_Rampa.fbx using Guid(f32d061e275784143b703fb7f3b84fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2aa8b89333239c04a23a98daa68744') in 0.023837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FBX/RAFAEL/CajaVerde.fbx
+  artifactKey: Guid(0e76d08efdc735f4590043f266cf1c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/CajaVerde.fbx using Guid(0e76d08efdc735f4590043f266cf1c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef8c56ec4e5b158c71e2239ee135e43') in 0.029205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/FBX/RAFAEL/Rampa.fbx
+  artifactKey: Guid(3efc70005adb1f34498cf33df032095c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/Rampa.fbx using Guid(3efc70005adb1f34498cf33df032095c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e90b14c4b36b2315564938dd4e1e8f9') in 0.029088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/FBX/RAFAEL/ArcoDePiedra_GrandeTunel_CTpequeño.fbx
+  artifactKey: Guid(346abe6090bdec64db3ab2b3aa3578a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/ArcoDePiedra_GrandeTunel_CTpequeño.fbx using Guid(346abe6090bdec64db3ab2b3aa3578a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd636df2dd0777b1c3318eb250844d9') in 0.032270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 54.383491 seconds.
+  path: Assets/FBX/RAFAEL/AgujeroPared.fbx
+  artifactKey: Guid(e3152de6fb308b443b2773b7b8f9687f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/AgujeroPared.fbx using Guid(e3152de6fb308b443b2773b7b8f9687f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843d168630b1cbd048dc46dadc63ba20') in 0.025316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/FBX/RAFAEL/Suelo.fbx
+  artifactKey: Guid(7bc74c108f6225749990870cd25dd226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/Suelo.fbx using Guid(7bc74c108f6225749990870cd25dd226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63c018b6c9e6055f1910dc770f656bf') in 0.031932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FBX/RAFAEL/SueloInclinadoArena_Rampa.fbx
+  artifactKey: Guid(f32d061e275784143b703fb7f3b84fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/SueloInclinadoArena_Rampa.fbx using Guid(f32d061e275784143b703fb7f3b84fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419ec241e74090a8198b7c8adad0aa48') in 0.021715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/FBX/RAFAEL/Rampa.fbx
+  artifactKey: Guid(3efc70005adb1f34498cf33df032095c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/RAFAEL/Rampa.fbx using Guid(3efc70005adb1f34498cf33df032095c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7560d93dc36d272d1a44ceaed7584f6') in 0.030671 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
