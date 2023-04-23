@@ -1,0 +1,10 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+<<<<<<< HEAD:Assets tarea grupal/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Cmd: shutdown
+=======
+Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
+
+Quitting shader compiler process
+>>>>>>> 495287566525a5994a4624563ce88b7eef875071:Assets-Promedio-1 prueba 1/Logs/shadercompiler-AssetImportWorker0.log
